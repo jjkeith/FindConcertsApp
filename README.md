@@ -2,7 +2,7 @@
 
 ![](public/favicon.ico)
 
-[https://nearhear.herokuapp.com](click here)
+[https://findconcertsapp.herokuapp.com/](click here)
 
 ### Description
 
@@ -38,6 +38,8 @@ Cooler, Trello, Heroku
 * A user will be able to click each marker to be taken to an event page with more information about that event.
 * The event details view will display in real-time event comments submitted by users. A user can add a comment(s) to the event page.
 
+### Screenshots
+![](landing-page.png)
 
 ### Contributors
 Nicholas Nemetz ([GitHub](https://github.com/nem1230)) and Susan Rotondo ( [GitHub](https://github.com/susanrotondo)) also contributed, particular to the incorporation of the API's. Original GitHub [here](https://github.com/jjkeith/Project3)
